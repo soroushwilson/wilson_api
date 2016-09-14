@@ -40,6 +40,17 @@ bash 3
 cd ..
 chmod 777 start.sh
 ./start.sh install
+Bot has been installed! you can run bot with:
+
+RUN BOT WITH CLI MOD:
+./start.sh
+
+RUN BOT WITH SELF MOD:
+./start.sh self
+
+
+RUN BOT WITH API MOD:
+./start.sh api
 ```
 | ANTI CRASH |
 |:-----------------------|
